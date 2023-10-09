@@ -20,7 +20,7 @@ Após as relações criadas, doi desenvolvido as visualizações básicas dos da
 - Logo após foi criado os gráficos de linha para a verificação da Renda Per Capita brasileira anual, PIB brasileiro anual e População brasileira anual.
 - E por fim 3 cartões com as informações das variações de valores entre o ano de 2002 e 2020 sobre a Renda Per Capita brasileira anual, PIB brasileiro anual e População brasileira anual.
 
-- ## Visualição do dashboard
+- ## Visualização do dashboard
 
 - <img width="1421" src="https://github.com/carolfiialho/power-bi/blob/main/pbi_pib.png">
 
@@ -34,7 +34,7 @@ Quando finalizado as visualizações, já podemos perceber vários insights que 
 
 3- O aumento populacional brasileiro, se manteve estável em todos os estados, sem uma grande variação em algum lugar específico.
 
-## Futuras análises e idéias:
+## Futuras análises e ideias:
 
 Ter essa visualização da quantidade populacional, Renda Per Capita e PIB estadual, trouxeram ideias de analisar os contextos dos estados brasileiros e talvez destrinchar as informações em:
 - Qual a diferença do PIB de São Paulo para o segundo maior PIB de estado brasileiro?
